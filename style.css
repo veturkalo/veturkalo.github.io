@@ -27,12 +27,17 @@
     }
 
     .resp {
-        min-width: 200px;
+        min-width: 100%;
+        margin: 5px;
+    }
+	.card {
+        min-width: 270px;
+		min-height: 300px;
         margin: 5px;
     }
 
     footer {
-        font-size: 2.5vw;
+        font-size: 3vw;
     }
 }
 
